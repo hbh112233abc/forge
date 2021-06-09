@@ -29,5 +29,6 @@ return [
 文件上传后,后端将文件上传到forge的oss,执行转换后返回urn记录到文件信息,预览采用demo的view方法通过get传参进行访问展示
 
 ## 参考
-[https://forge.autodesk.com/](https://forge.autodesk.com/)
-[https://autodeskviewer.com/viewers/latest/docs/index.html](https://autodeskviewer.com/viewers/latest/docs/index.html)
+- [https://forge.autodesk.com/](https://forge.autodesk.com/)
+- [https://learnforge.autodesk.io/](https://learnforge.autodesk.io/)
+- [https://forge.autodesk.com/en/docs/viewer/v7/developers_guide/overview/](https://forge.autodesk.com/en/docs/viewer/v7/developers_guide/overview/)
